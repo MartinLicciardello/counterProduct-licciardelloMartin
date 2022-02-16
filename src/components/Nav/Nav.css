@@ -1,0 +1,22 @@
+.Navigation {
+	display: flex;
+	background: rgb(225, 220, 220);
+	min-height: 7vh;
+}
+
+ul {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 100%;
+}
+
+.Link {
+	color: rgb(6, 5, 5);
+	font-size: 20px;
+}
+
+.logo{
+  color: rgb(6, 5, 5);
+	font-size: 40px;
+}

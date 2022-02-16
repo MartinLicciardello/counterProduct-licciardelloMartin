@@ -1,0 +1,14 @@
+.Header{
+    height: 100%;
+    align-items: center;
+    flex-direction: column;
+    min-height: 30vh;
+    width: 100%;
+    background: rgb(178, 178, 183);
+    color: black;
+}
+
+
+.Header h1{
+    font-size: 44px;
+}
